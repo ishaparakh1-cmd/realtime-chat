@@ -1,0 +1,6 @@
+{
+  "name": "realtime-chat",
+  "scripts": {
+    "build": "cd client && npm install && npm run build"
+  }
+}
